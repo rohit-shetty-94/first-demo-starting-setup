@@ -1,10 +1,10 @@
-# 🚆 **Demo Project (Nodejs + Docker)**
+# **Demo Project (Nodejs + Docker)**
 
 **Created basic nodejs project along with Dockerfile**
 
 ---
 
-## 📌 **Table of Contents**
+## **Table of Contents**
 
 - [⚙️ Setup & Installation](#-setup--installation)
 - [👨‍💻 Author](#-author)
